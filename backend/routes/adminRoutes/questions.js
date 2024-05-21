@@ -4,7 +4,6 @@ import { Router } from "express";
 
 const router = Router();
 
-mongoose.connect('mongodb+srv://aniketkumar6256:earthware0306@cluster0.lsqwmdr.mongodb.net/mentorMatch');
 
 router.get('/question', async(req, res) => {
   const questions = [
