@@ -2,7 +2,7 @@
 
 **MentorMatch** is an innovative platform designed to simplify mentorship and networking by connecting users based on shared experiences, goals, and skills. 
 
-![Landing Page](./mentorMatch/images/Screenshot%202024-10-19%20203247.png)
+![Landing Page](./mentorMatch/Images/Screenshot%202024-10-19%20203247.png)
 
 ## 🌟 Features
 
